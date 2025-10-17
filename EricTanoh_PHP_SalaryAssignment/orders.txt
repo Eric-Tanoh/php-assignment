@@ -1,0 +1,3 @@
+Product: Sleek Laptop | Qty: 200 | Unit Price: GHS 3600 | Total: GHS 756,000.00 | Date: 2025-10-16 17:42:26
+Product: Samsung Galaxy z fold | Qty: 7 | Unit Price: GHS 43999 | Total: GHS 354,191.95 | Date: 2025-10-16 17:53:33
+Product: Hisense Smart TV | Qty: 2 | Unit Price: GHS 2500 | Total: GHS 5,750.00 | Date: 2025-10-16 18:05:50
